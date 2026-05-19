@@ -1,62 +1,46 @@
-# 🎤 SPEAKERS
+# SPEAKERS
 
-Profiles of the men and women whose live training, keynotes, and recorded programs shaped how selling is taught — in the United States, in Latin America, and in Puerto Rico specifically.
+The people who taught the world to sell — and the modern operators carrying the work forward.
 
-## Directories
+Each profile follows the same structure:
+- **Era & legacy**
+- **Core philosophy**
+- **Signature methods**
+- **Notable books / programs**
+- **Quotables**
+- **Puerto Rico application** — how the speaker's frame adapts to the local market
+- **Where to study them**
 
-### `classic/`
-The founding generation. Their cassettes, books, and seminar tours built the modern training industry.
+## Sections
 
+### [01 — Classic Legends](./01-Classic-Legends/)
+The foundational voices. If sales has a canon, these speakers wrote it.
 - Zig Ziglar
 - Joe Girard
-- Brian Tracy
 - Dale Carnegie
+- Brian Tracy
 - Tom Hopkins
 
-### `modern/`
-The practitioners shaping selling right now — through YouTube, podcasts, books, and live cohorts.
-
-- Alex Hormozi
-- Jeb Blount
-- Grant Cardone
+### [02 — Motivational Giants](./02-Motivational-Giants/)
+Not pure sales trainers — but the mindset and state-management coaches whose work top closers internalize.
 - Tony Robbins
-- Chris Voss
-
-### `entrepreneurs/`
-Not pure-play sales trainers, but operators whose talks and books are required reading because their commercial track records validate the principles they teach.
-
-- Mark Cuban
-- Richard Branson
-- Daymond John
-- Robert Kiyosaki
-- John Maxwell
-- James Caan
-- Ted Turner
-- George Foreman
-- Chris Gardner
 - Les Brown
 - Eric Thomas
+- John Maxwell
+- Chris Gardner
 
----
+### [03 — Modern Sales Trainers](./03-Modern-Sales-Trainers/)
+The operators defining what selling looks like right now.
+- Grant Cardone
+- Jeb Blount
+- Alex Hormozi
 
-## Speaker File Schema
-
-```markdown
-# Name
-
-## Background
-## Core Philosophy
-## Signature Techniques / Frameworks
-## Notable Works
-## Why They Matter
-## Quotes
-## PR Industry Relevance
-```
-
----
-
-## Why Speakers Belong in a Sales Archive
-
-Sales is taught orally as much as in print. The cadence of Ziglar's voice, Cardone's intensity, Robbins's pacing — these are part of the technique. Reading the books is half the work. Watching the speakers — how they handle a room, how they pivot under heckling, how they close from the stage — is the other half.
-
-Every profile here includes recommended watching: a single talk, a single interview, a single keynote that captures the speaker at their peak. Start there.
+### [04 — Business Icons](./04-Business-Icons/)
+Founders and entrepreneurs whose sales philosophy is built into how they ran (or run) their empires.
+- Mark Cuban
+- Richard Branson
+- George Foreman
+- Robert Kiyosaki
+- James Caan
+- Daymond John
+- Ted Turner

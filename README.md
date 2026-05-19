@@ -1,80 +1,86 @@
-# 🇵🇷 PuertoRico Sales Stack
+# PuertoRico Sales Stack
 
-> **The Holy Grail of Sales** — a structured archive of the books, speakers, and strategies that shaped modern selling, curated for the Puerto Rico market.
+> **The Holy Grail of Sales** — A meticulously archived, structured knowledge base of foundational sales psychology, modern acquisition strategy, billionaire-endorsed thinking, and the speakers who built the field. Engineered as the definitive educational resource for the **Puerto Rico sales industry**.
 
-This repository is a strategic asset. Not a reading list. Not a collection of summaries. A working library — the foundational psychology of the early 1900s through the contemporary acquisition frameworks used by today's top operators — distilled into a format that supports skill development, model training, and content creation for the PR industry.
+This repository is a strategic asset. Its purpose is threefold:
+
+1. **Skill development** — A complete curriculum for sellers, closers, managers, and founders operating in Puerto Rico.
+2. **Model training** — A clean, structured corpus suitable for fine-tuning sales-focused AI agents, copilots, and coaching bots.
+3. **Content creation** — A source library for scripts, ads, social posts, training decks, and sales enablement assets.
 
 ---
 
-## Repository Map
+## Scope
+
+The archive spans **foundational psychology from the early 1900s through current 2026 acquisition strategy**, anchored by what top performers and billionaires actually read and cite.
+
+- **Foundational psychology (1900s — mid-20th century):** Carnegie, Bettger, Hopkins, Ziglar, Tracy, Cialdini, Rackham, Blanchard.
+- **Classic sales techniques:** SPIN, Strategic Selling, Integrity Selling, Selling to VITO, Pitch Anything, Little Red Book.
+- **Modern sales strategy:** Hormozi (\$100M Offers, \$100M Leads), Chris Voss, Jeb Blount, Grant Cardone, Matt Dixon, Aaron Ross, Dan Pink, Tony Robbins (Mastering Influence).
+- **Billionaire / top-performer picks:** Made to Stick, The Go-Giver, Influence, Mastery, The Charisma Myth, Ultimate Sales Machine.
+- **Speakers archive:** Classic legends, motivational giants, modern sales trainers, business icons.
+- **Strategies:** Distilled playbooks across psychology, prospecting, closing, offer creation, value-based selling, and Puerto Rico-specific application.
+
+---
+
+## Repository Structure
 
 ```
 PuertoRico-Sales-Stack/
 ├── BOOKS/
-│   ├── 01-Foundational-Psychology/   ← Carnegie, Cialdini, Ziglar, Hopkins, Bettger, Tracy, Rackham, Blanchard
-│   ├── 02-Modern-Strategy/           ← Hormozi, Voss, Blount, Pink, Klaff, Cardone, Dixon, Ross
-│   ├── 03-Billionaire-Recommended/   ← Heath Bros, Burg, Greene, Holmes, Gitomer
-│   └── 04-Additional-Classics/       ← Pressfield, Willingham, Miller-Heiman, Parinello, Cabane, Thull, Etherington
+│   ├── 01-Foundational-Psychology/   # 1900s — mid-20th century
+│   ├── 02-Classic-Sales-Techniques/  # Technique-focused classics
+│   ├── 03-Modern-Sales-Strategy/     # Hormozi, Voss, modern frameworks
+│   └── 04-Billionaire-Recommendations/ # What top performers cite
 ├── SPEAKERS/
-│   ├── classic/                      ← Ziglar, Girard, Tracy, Carnegie, Hopkins
-│   ├── modern/                       ← Hormozi, Blount, Cardone, Robbins, Voss
-│   └── entrepreneurs/                ← Cuban, Branson, Kiyosaki, John, Maxwell, Caan, Turner, Foreman, Gardner, Brown, Thomas
-├── STRATEGIES/
-│   ├── psychology-of-persuasion.md
-│   ├── objection-handling.md
-│   ├── closing-frameworks.md
-│   ├── prospecting-systems.md
-│   ├── value-based-selling.md
-│   ├── offer-construction.md
-│   └── negotiation-tactical-empathy.md
-├── PR-APPLICATION/
-│   ├── bilingual-sales.md
-│   ├── cultural-context.md
-│   └── industry-playbooks.md
-├── READING-PATHS.md
-├── GLOSSARY.md
-└── CONTRIBUTING.md
+│   ├── 01-Classic-Legends/           # Ziglar, Girard, Carnegie, Tracy, Hopkins
+│   ├── 02-Motivational-Giants/       # Robbins, Brown, Thomas, Maxwell, Gardner
+│   ├── 03-Modern-Sales-Trainers/     # Cardone, Blount, Hormozi
+│   └── 04-Business-Icons/            # Cuban, Branson, Foreman, Kiyosaki, Caan, John, Turner
+└── STRATEGIES/
+    ├── 01-Psychology-and-Influence.md
+    ├── 02-Prospecting-and-Cold-Outreach.md
+    ├── 03-Closing-and-Negotiation.md
+    ├── 04-Offer-Creation-and-Acquisition.md
+    ├── 05-Value-Based-Selling.md
+    └── 06-Puerto-Rico-Application.md
 ```
 
 ---
 
-## The Three Eras
+## How to Use This Archive
 
-**Era 1 — Foundational Psychology (1900s – mid 20th century).** Carnegie, Bettger, Hopkins, Ziglar. The bedrock. Human nature does not change; these works document the levers — recognition, reciprocity, sincerity, persistence, the close — that every system after them rebuilds.
+### For sellers in Puerto Rico
+Start with `BOOKS/01-Foundational-Psychology/` for the psychology that never changes, then jump to `STRATEGIES/06-Puerto-Rico-Application.md` to see how it adapts to the bilingual, relationship-driven local market.
 
-**Era 2 — Process & Persuasion Science (1980s–2010s).** Cialdini codified persuasion. Rackham measured what large-deal closers actually did differently. Miller-Heiman built the complex-sale playbook. Hopkins and Tracy industrialized training. This is when selling became a system.
+### For sales managers
+Work through `STRATEGIES/` end-to-end. Each playbook is structured for direct lift into training programs.
 
-**Era 3 — Modern Acquisition (2015–present).** Hormozi's offer construction. Voss's tactical empathy. Blount's prospecting cadence. Pink's reframing of the buyer. The modern era is leverage: how one operator with the right offer, the right hook, and the right follow-up outperforms a 1990s sales floor of fifty.
+### For AI/ML teams
+Every `.md` file follows a consistent schema: overview → author/context → key concepts → signature techniques → quotables → Puerto Rico application → further reading. Predictable enough to chunk, embed, and fine-tune on.
 
-All three eras matter. Eras 2 and 3 are built on Era 1.
-
----
-
-## How to Use This Repository
-
-**If you are a new seller in Puerto Rico:** Start with `READING-PATHS.md` → "30-Day Foundation." Carnegie first. Always Carnegie first.
-
-**If you train a team:** `STRATEGIES/` gives you cross-cutting frameworks distilled from the source books, in a format you can teach in a single session.
-
-**If you build content or train AI models:** Every book file follows the same schema (Core Thesis → Frameworks → Principles → Quotes → PR Application). The structure is machine-parseable and human-readable.
-
-**If you are a manager or operator:** `BOOKS/02-Modern-Strategy/` and `STRATEGIES/offer-construction.md` are the highest leverage starting points.
+### For content creators
+The speakers archive and the quotables in each book file are clean source material for ad scripts, social hooks, and educational posts.
 
 ---
 
-## Curation Principles
+## Coverage Philosophy
 
-1. **Sources are vetted.** Every book in this archive has been cited by at least one of: a Guinness-record-holding sales performer, a billionaire founder, or a generation-defining sales trainer.
-2. **PR-localized.** Each major framework includes a `PR Application` section addressing bilingual selling, family-business dynamics, and the cultural specifics of the local market.
-3. **No filler.** If a concept did not survive contact with the floor, it is not here.
-4. **Era-honest.** Old books are presented as old — context, language, and dated examples are noted. Modern books are presented with their hype tempered by what actually transfers.
+This archive **does not pad**. Every entry exists because either:
+- A top-1% closer cites it as foundational, OR
+- A billionaire / industry icon publicly recommends it, OR
+- A specific framework from it shows measurable impact on close rates, ACV, or pipeline velocity.
 
----
-
-## License & Attribution
-
-All book summaries, frameworks, and speaker profiles in this repository are original analytical content. Quotations from source works are kept brief, attributed, and used for educational commentary under fair use. Buy the books. The summaries here are a map, not a substitute.
+When old-school and modern conflict, both views are preserved. Carnegie's relational warmth and Hormozi's offer math are not enemies — they operate on different layers of the same sale.
 
 ---
 
-*Maintained for the Puerto Rico sales industry. Pull requests welcome — see `CONTRIBUTING.md`.*
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md). Pull requests welcome for: new book entries, speaker profiles, framework breakdowns, and PR-market case studies.
+
+---
+
+## License & Use
+
+All book content here is **original summary, analysis, and commentary** — never reproduced source text. This archive is shared as an educational resource for the Puerto Rico sales community.
