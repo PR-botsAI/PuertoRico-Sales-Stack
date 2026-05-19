@@ -1,40 +1,55 @@
 # Pitch Anything
-
 **Author:** Oren Klaff  
-**First Published:** 2011  
-**Era:** Modern — Neuroscience-Based Persuasion  
-**Status:** The high-stakes pitch playbook used in investment banking, VC, and enterprise sales
+**First published:** 2011  
+**Section:** Classic Sales Techniques
 
----
+## Overview
+Klaff is a capital-raiser who closed over \$400M in venture and institutional deals using a method he calls **frame-based selling**. *Pitch Anything* applies neuroeconomics and "croc-brain" psychology to the high-stakes pitch: how to control the frame of the conversation, generate intrigue, and avoid the supplicant position that kills most sellers' deals before they start.
 
-## Core Thesis
+## Key Concepts
 
-The brain has three layers: croc (survival), mid (relationships), neo (analysis). Most pitches are delivered to the neocortex but are *filtered* by the croc brain first. If your pitch doesn't survive the croc — fast, novel, status-loaded, frame-controlled — the neocortex never hears it.
+### 1. Frame control
+Every interaction has a frame — the dominant interpretive lens through which the conversation is happening. Whoever owns the frame wins. There are four frames that always defeat the seller's pitch frame:
+- **Power frame** (status flex)
+- **Time frame** ("I only have 10 minutes")
+- **Analyst frame** (drowning the pitch in data demands)
+- **Prize frame** (the seller acting needy)
 
-## The STRONG Method
+Klaff's method gives concrete frame-collisions for each: graceful but disobedient responses that flip the frame back.
 
-- **S — Set the Frame:** Establish power, time, intrigue, and prize frames before content.
-- **T — Tell the Story:** Narrative carries information past the croc brain.
-- **R — Reveal the Intrigue:** Plant a curiosity gap and don't close it immediately.
-- **O — Offer the Prize:** Position yourself as the scarce, valuable party. The buyer earns access to *you*.
-- **N — Nail the Hook Point:** A specific moment of buyer commitment.
-- **G — Get the Decision:** Move to action while emotional state is high.
+### 2. The STRONG pitch method
+- **S** — Set the frame (status, time, scope)
+- **T** — Tell the story
+- **R** — Reveal the intrigue
+- **O** — Offer the prize (the seller's attention and expertise are the prize, not the deal)
+- **N** — Nail the hook point
+- **G** — Get the decision
 
-## Application to Modern Sales
+### 3. Croc-brain decision filtering
+Klaff borrows from Paul MacLean's triune brain theory: information has to pass the croc brain (threat / boredom filter), midbrain (social significance), then neocortex (analysis). If your pitch is boring or threatening, it never reaches analysis. Keep it novel, simple, and high-stakes.
 
-- **Frame control:** Walk in owning the meeting structure. Don't accept the buyer's framing of you as supplicant.
-- **Status reframing:** "I only have 20 minutes before my next call" — used honestly — inverts the typical power dynamic.
-- **Prize frame:** "Not every client is a fit for us. Let's see if you are." Used judiciously, this transforms the dynamic.
+### 4. The "prize" inversion
+If the prospect feels like the prize, the seller has already lost. Klaff trains sellers to behave as if they are the scarce resource being evaluated, not begged for.
 
-## Puerto Rico Market Relevance
+## Why This Still Works in 2026
+Venture and enterprise pitching has only gotten more competitive. Frame control — not deck design — is the consistent differentiator between funded and unfunded founders.
 
-For PR entrepreneurs pitching to mainland investors, family offices, or institutional buyers, Klaff's frame work is essential armor against being positioned as the "local vendor." The book is also gold for high-end real estate, luxury auto, and concierge financial services on the island, where status dynamics drive purchase decisions.
+## Quotables
+- "When you are pitched, you are being framed. When you pitch, you are framing."
+- "The first frame to make contact wins."
+- "You should never expend social capital to acquire money. Make them earn it."
 
-## Key Takeaways
+## Puerto Rico Application
+- **The prize-frame inversion is uncomfortable but necessary in PR markets** where mainland-funded buyers sometimes adopt a power-frame toward island-based sellers. Klaff's tools are specifically designed for that asymmetry.
+- **Storytelling matches PR culture** — the *cuento* approach to business conversation is structurally close to Klaff's narrative frame.
+- **Useful for PR founders raising capital** in mainland or Latin American venture markets where the frame imbalance is most acute.
 
-- The frame is the meeting before the meeting.
-- Status flows uphill — control it or lose it.
-- Curiosity gaps beat information dumps.
+## How to Use It
+- Founders pitching investors: this is the most directly applicable book in the archive.
+- Senior AEs pitching C-suite: use STRONG for board-level presentations.
+- Skip the parts that read as bravado; the core mechanics are sound and replicable.
 
-## Recommended Pairing
-Pair with Cialdini's *Influence* and Voss's *Never Split the Difference*.
+## Cross-References
+- *Influence* (Cialdini) — scarcity and authority feed directly into Klaff's prize frame.
+- *Never Split the Difference* — Voss is the empathy counterweight to Klaff's frame aggression.
+- *\$100M Offers* (Hormozi) — Hormozi's value-equation is built to survive a Klaff-style frame collision.
