@@ -1,43 +1,95 @@
-# The One Minute Manager
+# The One Minute Manager — Ken Blanchard & Spencer Johnson (1982)
 
-**Authors:** Ken Blanchard & Spencer Johnson  
-**First Published:** 1982  
-**Era:** Foundational — Management & Sales-Floor Leadership  
-**Status:** The most-quoted management primer in sales-organization history
+## Bibliographic
 
----
-
-## Why It Still Matters
-
-No sales force scales without leadership. Blanchard and Johnson reduced effective people management to three repeatable practices any sales manager — from a five-rep team in San Juan to a 500-rep national operation — can deploy immediately.
+- **Authors:** Ken Blanchard, Spencer Johnson
+- **First published:** 1982 (revised 2015 as *The New One Minute Manager*)
+- **Era:** Foundational (management classic with deep sales-team application)
+- **Length:** ~110 pages — deliberately short, read in one sitting
 
 ## Core Thesis
 
-Great managers produce great results *and* great people. The two are not in tension. You don't need elaborate systems to lead; you need three minute-long disciplines done consistently.
+Good management is three small habits applied consistently:
 
-## The Three Secrets
+1. **One Minute Goals** — Each person knows what "good performance" looks like, written down in 250 words or less.
+2. **One Minute Praisings** — Catch people doing things right and tell them, specifically, immediately.
+3. **One Minute Re-Directs** (originally "Reprimands") — When someone misses the standard, address it within a minute, specifically, then reaffirm the person.
 
-1. **One Minute Goals** — Agree on clear, written goals. The rep should be able to read them in under a minute. No goal, no accountability.
-2. **One Minute Praisings** — Catch people doing something right. Praise specifically, immediately, and with genuine feeling. Then pause and let the praise land.
-3. **One Minute Reprimands** — Correct the *behavior*, not the person. Be specific, be immediate, and finish by reaffirming the person's value. Reprimand the action, then end with belief in the human.
+The book is presented as a parable. A young manager seeks the best manager he can find and is taught these three habits.
 
-## Application to Modern Sales
+The core insight underneath the simplicity: most management failure is a failure of *clarity* and *timing*, not a failure of strategy. People do not need more meetings, more KPIs, or more training. They need to know what good looks like, hear when they are hitting it, and be corrected fast when they are not.
 
-- **Pipeline reviews:** Replace 60-minute interrogations with weekly one-minute goal check-ins.
-- **Coaching cadence:** A 60-second praise after a strong discovery call shapes behavior more than a quarterly bonus.
-- **Underperformance:** Separate the behavior from the identity. "That cold call opening missed — and you're still one of our best reps" outperforms public shaming every time.
+## Key Frameworks
 
-## Puerto Rico Market Relevance
+### One Minute Goals
 
-In Puerto Rico's relational business culture, public criticism destroys *respeto* — and with it, the manager's authority. The Blanchard/Johnson model of correcting in private while reaffirming the person publicly is culturally precise. The praising side is even more important: warm, specific, immediate recognition is how loyalty is built on the island.
+The rule: each goal fits on one page and can be re-read in under a minute. The seller and manager agree on no more than three to five of these. Every morning, the seller looks at them. Every evening, the seller looks at performance versus them.
 
-## Key Takeaways for Training
+This is the original objectives-and-key-results pattern — long before OKRs were branded.
 
-- People who feel good about themselves produce good results.
-- The best minute you spend is the one you invest in people.
-- Goals begin behaviors. Consequences maintain them.
-- Recognition is the cheapest commission you'll ever pay.
+### One Minute Praising
 
-## Recommended Pairing
+The sequence:
+1. Praise immediately (not at the end of the quarter, not at the all-hands).
+2. Be specific about what was done well.
+3. Say how it made you feel.
+4. Pause — let the recognition land.
+5. Encourage them to do more of the same.
 
-Pair with John Maxwell's leadership work for the philosophical depth, and with Holmes' *Ultimate Sales Machine* for the operational layer.
+The entire interaction takes under a minute. Done well, it is the single highest-leverage management behavior. Most managers do it badly, late, or not at all.
+
+### One Minute Re-Direct
+
+The sequence:
+1. Address it as soon as possible after the behavior.
+2. Be specific about what went wrong.
+3. Say how it made you feel.
+4. Pause — let the criticism land.
+5. Then: remind them of their value, their competence, your confidence in them.
+6. End the interaction.
+
+The critical move is the second half. The re-direct is not a punishment. It is a correction wrapped in a reaffirmation. When done right, the seller leaves the conversation determined, not deflated.
+
+## Principles & Tactics
+
+**Behavior is not identity.** "That report was sloppy" is correctable. "You are sloppy" is character assault. The re-direct attacks the behavior; the praising affirms the person.
+
+**Catch them doing something almost right.** New sellers will not produce excellent work immediately. Wait for the first approximation and praise it. Wait for the second and praise it. The praising is what produces the next approximation.
+
+**The pause matters.** In both praising and re-direct, the silence after the message is what makes it land. Managers who fill the silence ruin the effect.
+
+**Goals visible, performance visible.** If a seller does not know what good looks like, the failure is the manager's. If a seller does not know how they're tracking against good, the failure is the manager's.
+
+## Notable Concepts
+
+**"Feedback is the breakfast of champions."** Blanchard's most-quoted line. The implication: deprive a high performer of feedback and they will leave — not because they are unsure they are doing well, but because the silence reads as indifference.
+
+**"People who feel good about themselves produce good results."** This is the entire management thesis in one sentence. Self-image and output are not independent variables.
+
+**Time arithmetic.** The book argues a manager who spends three minutes a day on the three habits with each of ten sellers spends 30 minutes — less than a single status meeting — and produces a higher-performing team than a manager who runs an hour of meetings daily.
+
+## Critique & Context
+
+The book's parable format reads dated. Some readers find it patronizing. Push past it.
+
+The more substantive critique is that the framework assumes a healthy manager-report relationship. In dysfunctional environments — a defensive seller, a manager with no credibility, a culture of public blame — the praisings can read as manipulative and the re-directs as ammunition. The framework requires baseline trust to work.
+
+It is also intentionally minimal. It does not address coaching, career development, compensation, or strategic planning. The book is not a complete management text. It is the foundational habit kit on top of which everything else is built.
+
+## Puerto Rico Application
+
+**Praising in a public-relationship culture.** In PR's commercial culture, public recognition lands very strongly — in front of the team, in front of the family if it's a family business. The Blanchard praising can be amplified by being delivered (when appropriate) in a small public setting rather than privately.
+
+**Re-directs in private. Always.** The flip side: criticism that would barely register in a mainland US office can be career-ending if delivered publicly in PR. The Blanchard re-direct must be private. Non-negotiable.
+
+**Goal clarity in bilingual teams.** Where team members operate in mixed Spanish and English, the One Minute Goal must be written. Verbally agreed goals in a bilingual team produce drift within a week.
+
+## Reading Priority
+
+**For sales managers and team leads: read this immediately. Then re-read every quarter.**
+
+This is the only book in the foundational psychology section that is primarily about managing sellers rather than being one. If you lead a team in PR and you do not run something close to the Blanchard rhythm, you are leaking output every day.
+
+**Reading time:** ~90 minutes.
+
+**Re-read cadence:** Quarterly. The book is short on purpose — it's designed for re-reading.
