@@ -1,182 +1,136 @@
 # 02 — Prospecting & Cold Outreach
 
-> The pipeline playbook. Synthesized from Blount (`Fanatical Prospecting`), Etherington (`Cold Calling for Chickens`), Ross (`Predictable Revenue`), Parinello (`Selling to VITO`), and Hopkins.
+*The pipeline-discipline playbook. Synthesized from Blount, Holmes, Parinello, Etherington, Ross & Tyler, with PR-market adaptations.*
 
-**Premise:** an empty pipeline is the only sales problem that can't be fixed by skill. Prospecting is the non-negotiable behavior — everything else is optimization.
+## Purpose
 
----
+Pipeline is the single most-correlated variable with seller income. Sellers who solve pipeline never have a bad quarter; sellers who don't solve pipeline never have a great one. This file is the operating discipline that produces predictable pipeline regardless of mood, season, or market conditions.
 
-## 1. The Universal Law (Blount)
+## Source Material
 
-From `Fanatical Prospecting`: *the pipeline is a leading indicator of next quarter's commission*. By the time the close-rate problem shows up in numbers, the prospecting failure is 60–90 days old.
+- *Fanatical Prospecting* (Jeb Blount) — the 30-day pipeline rule.
+- *The Ultimate Sales Machine* (Chet Holmes) — Dream-100 and pigheaded discipline.
+- *Selling to VITO* (Parinello) — top-down executive outreach.
+- *Cold Calling for Chickens* (Etherington) — cold-call mechanics.
+- *Predictable Revenue* (Ross & Tyler) — SDR-AE specialization and Cold Calling 2.0.
+- *The Little Red Book of Selling* (Gitomer) — anti-call-reluctance discipline.
 
-Blount's three rules:
+## The 30-Day Pipeline Rule (Blount)
 
-1. **There is no silver bullet.** Multiple channels, every day.
-2. **The 30-day rule.** Whatever you fail to prospect today shows up as a closing gap 30, 60, 90 days from now.
-3. **The law of replacement.** When you close a deal, you must immediately replace it in the pipeline — not when you have time.
+The activity you do today produces the pipeline you'll close 30-90 days from now. A seller who stops prospecting Monday feels nothing Monday. They feel it in 60 days when the pipeline runs dry.
 
----
+**Operating implication:** Prospecting is a daily non-negotiable, not a backup when other activity slows. Block 90 minutes per day for new outreach. The block is sacred — no meetings, no admin, no "I'll do it after lunch."
 
-## 2. The Multi-Channel Cadence
+## The Dream-100 Method (Holmes)
 
-No single channel works. The combination does. Standard PR-adapted cadence for a 14-day outreach sequence:
+Not every prospect is worth equal effort. Identify the 100 highest-value, best-fit accounts in your territory. Pursue them with patient, multi-touch, education-led outreach over 12-24 months. The math: at a conservative 10% conversion, 10 Dream-100 clients can transform a career.
 
-| Day | Channel | Purpose |
-|---|---|---|
-| 1 | Cold call | Anchor the introduction |
-| 1 | Email (same day) | Reference the call, give value |
-| 3 | LinkedIn connect + 1-line note | Soft surface-area |
-| 5 | Cold call (2nd attempt, different time of day) | Catch them when they're free |
-| 7 | Value email (case study or insight, no ask) | Reciprocity deposit |
-| 9 | WhatsApp or text (if appropriate — common in PR for SMB) | Channel they actually read |
-| 11 | Cold call (3rd attempt) | Persistence threshold |
-| 14 | Breakup email ("closing the loop") | Often the highest-reply message in the sequence |
+**Operating implication:** Allocate ~30% of prospecting time to the Dream-100 (long-cycle, high-leverage). Allocate ~70% to broader pipeline build (faster-cycle, current-quarter need). Adjust ratio by ACV and sales-cycle length.
 
-**PR-specific:** WhatsApp Business is the dominant SMB and even mid-market channel locally. A formal email-only cadence underperforms. A LinkedIn-only cadence dramatically underperforms — penetration is lower than in mainland US verticals.
+## Top-Down Targeting (Parinello)
 
----
+Start at VITO (Very Important Top Officer) where authority and discretionary budget live. Top-down conversion rates beat bottom-up by 3-5x in enterprise sales.
 
-## 3. Cold Calling: Etherington's Framework
+**Operating implication:** For every Dream-100 account, identify the named VITO. Build the executive outreach sequence specifically for them — not for mid-management influencers.
 
-`Cold Calling for Chickens` reframes the call from "interruption" to "useful contact." The structure:
+## The SDR-AE Specialization Model (Ross & Tyler)
 
-1. **Permission opener:** "Did I catch you at a bad time?" (Voss's strategic-no) — works better than "Do you have a minute?"
-2. **Reason for the call, specific and relevant:** name a real trigger event for *this* prospect, not a generic value prop.
-3. **One question** that invites a real answer.
-4. **Clear next step**, never an open close ("would you be interested?"). Always a specific time.
+The seller responsible for cold outreach should not be the same seller responsible for closing. Specialization compounds efficiency:
+- **SDR / BDR** owns top-of-funnel — outbound emails, calls, social touches, qualifying conversations, booked meetings.
+- **AE** owns the qualified opportunity — discovery, demo, negotiation, close.
 
-**Call-block math:** 90-minute uninterrupted blocks, 2x per day, no email, no Slack, no LinkedIn. Productivity collapses outside this structure — every interruption costs ~23 minutes of refocus (Blount cites this in `Fanatical Prospecting`).
+For solo sellers and small teams: time-block the role rather than the headcount. 9-11 AM is SDR mode; 11 AM onward is AE mode. Mixing produces poor results in both.
 
----
+## The Multi-Touch Cadence
 
-## 4. Predictable Revenue & the SDR/AE Split (Ross)
+Most sellers send one email or make one call, then give up. Top performers run a 12-14 touch sequence over 14-21 days before pausing the prospect.
 
-Aaron Ross's contribution from Salesforce's early playbook: **separate roles**.
+### A Standard Sequence
 
-- **SDR (Sales Development Rep)** — outbound prospecting only. Books meetings. Owns top-of-funnel.
-- **AE (Account Executive)** — runs discovery, demos, closes. Owns mid-to-bottom funnel.
-- **CSM (Customer Success)** — retention, expansion. Owns post-sale.
+| Day | Touch | Channel |
+|-----|-------|---------|
+| 1 | Personalized opener with peer-outcome | Email |
+| 1 | Voicemail (if no email response within 4 hours) | Phone |
+| 3 | Industry-insight follow-up | Email |
+| 5 | LinkedIn connection request with context | Social |
+| 7 | Different-angle value reframe | Email |
+| 8 | Cold call | Phone |
+| 10 | Forward of relevant case study | Email |
+| 12 | Cold call | Phone |
+| 14 | Voice/video personalized message | Loom or similar |
+| 17 | Cold call | Phone |
+| 19 | Pattern-interrupt message (humor or candor) | Email |
+| 21 | Explicit break-up email | Email |
 
-The single-seller model (one person doing all three) caps out around \$1M ARR per rep in most B2B verticals. The split unlocks scale.
+After day 21: pause the prospect for 60-90 days, then re-queue with a new trigger event.
 
-**For PR mid-market and SMB:** the split is often premature. Many local industries (insurance, real estate, professional services) close better with a single relationship-owner from first touch through renewal. Adapt to deal velocity and trust cycle, not to the SaaS-blog default.
+## Cold-Call Mechanics (Etherington)
 
----
+### The 4-Step Open
+1. **Name + company** with peer confidence.
+2. **Reason for the call** in one sentence tied to their likely current concern.
+3. **Permission reversal**: *"Is now a bad moment?"*
+4. **The hook**: a quantified peer-outcome statement.
 
-## 5. VITO Targeting (Parinello)
+### Brush-Off Handling
+Most brush-offs resolve with a single acknowledge-reframe-question move:
+- *"That makes sense — the leaders we work with usually felt the same way before we showed them [X]. Quick question: when you say [their words], do you mean [specific A] or [specific B]?"*
 
-VITO = **Very Important Top Officer**. The thesis: stop selling to influencers, sell to the person who can sign.
+### The Only Goal
+Book the meeting. Not pitch, not educate, not handle objections in detail. Sellers who try to close on the cold call lose the meeting they could have had.
 
-VITO behavior in your outreach:
+## The Executive Letter (Parinello)
 
-- Subject line: *outcome*, not *product*. "Cutting customer-acquisition cost by 18%" beats "Following up on our product."
-- First sentence: a concrete result a peer of theirs achieved.
-- No more than 90 words total.
-- One specific ask: a 15-minute call, named day, named time.
+For Dream-100 VITOs, a one-page letter outperforms an email. Format:
 
-VITOs read everything in <8 seconds. If your opener doesn't land in that window, you don't exist to them.
+- **Headline**: a business outcome tied to a peer.
+- **Opening line**: a 3-sentence statement of named, quantified peer results.
+- **Reason to talk now**: a current business trigger (their press, their hire, their competitor's move).
+- **The ask**: a specific time-bounded meeting request (15-20 minutes, two date options).
+- **Signature**: peer-level, not vendor-level.
 
----
+Follow with a phone call 4-7 days later referencing the letter.
 
-## 6. The Trigger-Event Doctrine
+## The Trigger-Event Engine
 
-The highest-converting prospecting is triggered, not scheduled. Watch for:
+The most efficient prospecting uses trigger events as the entry hook:
 
-- **Funding rounds** (especially Puerto Rico Act 60 / Act 20-22 relocations)
-- **Executive hires** — new VPs often have 90-day mandates and budget
-- **Product launches**
-- **Regulatory changes** — in PR specifically, CRIM, IVU, Hacienda updates create active buying windows
-- **Hurricane season operational shifts** — June through November alters buying priorities in PR materially
-- **Competitor failures** — public outage, layoff, lawsuit
+- New leadership hire — they're in their first 90 days and looking for early wins.
+- New funding round — budget unlocked.
+- Acquisition / merger — integration pain.
+- New regulation — forced compliance spending.
+- Earnings miss — cost-cutting urgency.
+- Negative press — reputation rebuild.
 
-A trigger-based reach-out hits 5–10x the response rate of a cold sequence.
+Monitor trigger events for the Dream-100 weekly. Reach out within 14 days of the trigger.
 
----
+## Common Mistakes
 
-## 7. The Quality Filter (Hopkins)
+- **Prospecting reactively.** Only doing outreach when pipeline is low. Produces feast-famine cycles.
+- **Single-channel reliance.** Email-only or call-only. Multi-channel beats single-channel by 4-5x in modern outbound.
+- **Generic personalization.** "I see you work at [Company]" is not personalization. Reference specific recent events, posts, or peer connections.
+- **Premature pitching.** The cold open is not the place to pitch. The cold open earns the next conversation.
+- **Quitting at touch 3-4.** Most replies come on touches 5-9. Sellers who stop at 3 leave the bulk of conversion on the table.
+- **No prospecting block on the calendar.** If it's not on the calendar, it doesn't happen.
 
-Tom Hopkins's rule, modernized: **suspects ≠ prospects.** A suspect has a pulse and a phone number. A prospect has:
+## Puerto Rico Application
 
-1. **Need** — a real problem you solve
-2. **Authority** — power to sign
-3. **Money** — actual budget, not theoretical
-4. **Timing** — within your forecastable window
+- **The PR Dream-100 is genuinely small.** Many B2B verticals on the island have a TAM of 200-500 companies. The Dream-100 may represent 20-50% of the addressable market — making it the primary motion, not a long-game side bet.
+- **Bilingual sequences outperform monolingual by wide margins.** First touch in English (signals professionalism and breadth), follow-ups in Spanish where prospect's primary language is Spanish (signals local fit and warmth). Test which order works in your vertical.
+- **The VITO letter is high-leverage on the island.** PR C-suite executives receive far fewer high-quality executive letters than mainland equivalents. A well-crafted bilingual letter to a named local CEO often gets read personally.
+- **Trigger events are publicly visible in PR.** Local press (El Nuevo Día, Caribbean Business, Negocio en Marcha), Chamber announcements, and government-contract awards are the trigger-event monitoring sources.
+- **Network density compresses sequences.** A Dream-100 prospect you can reach via a mutual contact often closes in 1-2 touches because the warm intro carries authority and reciprocity simultaneously. Identify the warm-intro path before launching cold sequences.
+- **Cold-call timing matters more locally.** 9-11 AM weekdays is the high-conversion window. Avoid Friday afternoons (early-weekend mode), the week of Reyes (Three Kings, early January), and Holy Week (Semana Santa).
 
-More disqualifying earlier in the funnel is the single highest-leverage prospecting upgrade most teams can make.
+## Drills
 
----
+1. **The 50-Dial Day:** Once per month, make 50 cold dials in a single day. Builds resilience and resets the seller's baseline of what's possible.
+2. **The Dream-100 Build:** This week, draft your Dream-100 list. Verify named VITO, current trigger events, and warm-intro paths for each.
+3. **The Sequence Audit:** Review your last 30 outbound contacts. How many touches did you actually run before quitting? If under 8, that's the gap.
+4. **The Letter Drill:** Write three executive letters this week. Send by physical mail to three named Dream-100 VITOs. Follow up by call within 5 business days.
 
-## 8. The Daily Pipeline Math
+## Cross-References
 
-Blount's working formula, adjusted for typical PR mid-market:
-
-```
-To close 4 deals/month at 20% close rate:
-→ Need 20 qualified opportunities/month
-→ At 25% lead→opportunity conversion: 80 conversations
-→ At 8% dial→conversation: 1,000 dials/month
-→ ~50 dials per working day
-```
-
-The top quartile of sellers in any market makes 2–3x more outbound touches per day than the median. There is no substitute being marketed that closes this gap.
-
----
-
-## 9. Mental Game
-
-Prospecting is rejection compression. Defenses to build:
-
-- **Reframe rejection.** Pressfield (`War of Art`): resistance is the signal you're on the right work.
-- **Measure activity, not outcome (early).** Goggins-style — the score is the rep count.
-- **Eat the frog.** First call of the day is the hardest call on your list, before email touches your screen.
-- **The 5-call rule.** No legitimate prospect is fully worked until 5 attempts across at least 2 channels.
-
----
-
-## 10. Puerto Rico Application Notes
-
-- **WhatsApp Business** > email for SMB and a large share of mid-market. A voice note is often warmer than a typed message.
-- **Call before lunch (10:30–12:00) and late afternoon (3:30–5:00)** have noticeably higher pickup than US-East-Coast hours.
-- **Local trade groups** — Cámara de Comercio, ASORE, sector-specific chambers — are higher-leverage than LinkedIn for trust-led entries.
-- **Spanish-first messaging** outperforms in retail, hospitality, food service, construction. English-first outperforms in tech, finance, Act-60 relocators, and federal contracting.
-- **Hurricane preparedness window (May–June)** is a budget-release window in many local verticals; aligning outreach to it matters.
-
----
-
-## 11. Cadence Template (Copy-Ready)
-
-```
-Touch 1 — Call
-"Hi [Name], this is [You] from [Company]. Did I catch you at a bad time?
-[Pause]
-The reason for the call: [trigger event] — and we've helped [peer
-company] [specific outcome]. I wanted 15 minutes to see if it's
-worth a conversation. Are mornings or afternoons better this week?"
-
-Touch 2 — Email (same day)
-Subject: 18% lower CAC for [their industry]
-
-[Name],
-
-Called earlier — didn't want to leave it on voicemail.
-
-[Peer company] cut acquisition cost 18% in 90 days after we worked
-with them. Same playbook fits [Name's company] based on [specific
-observation].
-
-Worth 15 minutes Thursday 10:00 or Friday 2:00?
-
-[Signature]
-```
-
----
-
-## Source Cross-Reference
-
-- `BOOKS/02-Classic-Sales-Techniques/fanatical-prospecting.md`
-- `BOOKS/02-Classic-Sales-Techniques/cold-calling-for-chickens.md`
-- `BOOKS/02-Classic-Sales-Techniques/predictable-revenue.md`
-- `BOOKS/02-Classic-Sales-Techniques/selling-to-vito.md`
-- `BOOKS/02-Classic-Sales-Techniques/the-war-of-art.md`
-- `BOOKS/01-Foundational-Psychology/how-to-master-the-art-of-selling.md`
+- **Books:** *Fanatical Prospecting*, *Ultimate Sales Machine*, *Selling to VITO*, *Cold Calling for Chickens*, *Predictable Revenue*.
+- **Speakers:** Jeb Blount, Anthony Parinello, Aaron Ross, Chet Holmes.
+- **Strategies:** `01-Psychology-and-Influence.md`, `04-Offer-Creation-and-Acquisition.md`, `06-Puerto-Rico-Application.md`.

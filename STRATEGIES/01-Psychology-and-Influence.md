@@ -1,148 +1,107 @@
 # 01 — Psychology & Influence
 
-> The universal levers that move human decisions. Synthesized from Cialdini, Carnegie, Ziglar, Tracy, Klaff, Cabane, and Voss.
+*The applied playbook for the universal psychological levers that move every sale, drawn from Cialdini, Carnegie, Tracy, Robbins, Voss, and Cabane.*
 
-Every technique in later playbooks (prospecting, closing, offer-craft) is downstream of this file. If a tactic in Puerto Rico isn't landing, the diagnosis usually traces back to one of the principles here.
+## Purpose
 
----
+A seller who has read every book in `01-Foundational-Psychology/` but cannot deploy the principles under live pressure has only academic knowledge. This file is the conversion layer — the practiced, in-room, in-call application of influence psychology. It is the playbook your sales floor should be able to recite from memory.
 
-## 1. The Six Universal Levers (Cialdini)
+## Source Material
 
-These are the load-bearing walls of persuasion. They work because they tap evolved decision shortcuts — they are not tricks, they are how the brain conserves attention.
+- *Influence* (Cialdini) — the six universal levers.
+- *How to Win Friends and Influence People* (Carnegie) — relational frame.
+- *The Psychology of Selling* (Tracy) — self-concept and emotional drivers.
+- *Mastering Influence* (Robbins) — state-first, values-elicitation layer.
+- *Never Split the Difference* (Voss) — tactical empathy mechanics.
+- *The Charisma Myth* (Cabane) — presence, power, warmth.
 
-| Lever | What it triggers | Sales application |
-|---|---|---|
-| **Reciprocity** | The pull to repay value received | Free audit, useful insight, real help *before* the ask |
-| **Commitment & Consistency** | The drive to align with prior public statements | Get the small yes, then the larger yes that's consistent with it |
-| **Social Proof** | Looking sideways when uncertain | Testimonials, case studies, peer-of-buyer references |
-| **Liking** | We say yes to people we like | Genuine similarity, sincere compliments, cooperation toward a shared goal |
-| **Authority** | Deference to credible expertise | Credentials, specificity of knowledge, third-party validation |
-| **Scarcity** | Loss-aversion overweighting | Real (never fabricated) deadlines, limited inventory, unique access |
+## The Six Universal Levers (Cialdini)
 
-**Rule:** every lever must be *true*. Cialdini's later work (`Pre-Suasion`) and Voss both reinforce that fabricated scarcity, fake authority, or manufactured social proof destroy trust faster than no persuasion attempt at all.
+### 1. Reciprocity
+People feel obligated to return value they've received. Give first — a useful insight, a relevant intro, a competitor's annual report — before asking for anything. The gift must be *meaningful*, *unexpected*, and *personalized* to trigger the strongest reciprocal pull.
 
----
+**Live application:** Open every discovery call with a teaching insight specific to the prospect's industry. Send a relevant article 48 hours after first meeting. Refer business to prospects when you spot a fit — even when they're not yet your customer.
 
-## 2. Carnegie's Relational Foundation
+### 2. Commitment & Consistency
+People behave consistently with prior public statements and small commitments. Stair-step the commitment: a 5-minute call, a 15-minute discovery, a 30-minute demo, a pilot, a contract. Each prior yes makes the next yes easier.
 
-Where Cialdini gives the levers, Carnegie gives the medium they travel through. Without warmth, every lever feels like manipulation.
+**Live application:** End every meeting with a small specific commitment from the prospect ("can you forward this to your CFO before Thursday?"). Document agreements in writing immediately after the call to lock in the commitment psychologically.
 
-Core moves from `How to Win Friends and Influence People`:
+### 3. Social Proof
+People look to peers' behavior under uncertainty. The closer the proof source is to the prospect's situation, the stronger the pull.
 
-- **Don't criticize, condemn, or complain.** A defensive prospect doesn't buy.
-- **Become genuinely interested in the other person.** Sincere curiosity beats any script.
-- **Remember names and use them.** In Spanish-speaking PR, this includes correct pronunciation, accents, and titles (don, doña).
-- **Be a good listener. Encourage others to talk about themselves.** Discovery is 80% listening.
-- **Talk in terms of the other person's interests.** Translate your product into their world.
-- **Make the other person feel important — and do it sincerely.**
+**Live application:** Always have ready: 3 case studies in the prospect's exact vertical, 2 named-reference clients you can introduce, and current peer-adoption data in their industry. Use this language pattern: *"Most leaders in [their industry] who looked at this initially [their hesitation] — here's what changed their thinking…"*
 
-**Bridge:** Carnegie supplies the *trust container*. Cialdini fills it with *direction*. Hormozi (later) puts a *price tag* on it.
+### 4. Authority
+People defer to recognized expertise. Authority is established through credentials, demonstrated competence, third-party endorsement, and confident posture — in that order, with confident posture often outweighing the others in a single meeting.
 
----
+**Live application:** Lead with substance, not pitch. Show the prospect something about *their own* industry they didn't know. Reference your published work, your speaking engagements, your peer-reviewed clients. Stand at peer-level posture (Cabane's power signaling); never beg for the meeting.
 
-## 3. Ziglar's Internal Psychology of the Seller
+### 5. Liking
+People buy from people they like. Liking is built through similarity, genuine compliments, cooperation toward a shared goal, and physical/relational attractiveness (presence + warmth).
 
-Ziglar's central claim: "You can have everything in life you want if you will just help enough other people get what they want." This is the disposition, not a tactic.
+**Live application:** Find one genuine point of connection per meeting (shared school, sport, hometown, industry experience). Give one genuine compliment per meeting tied to something specific they did — never generic. Position the seller-buyer relationship as collaborative diagnosis, not adversarial negotiation.
 
-What Ziglar adds:
+### 6. Scarcity
+People value what is rare or time-bounded. Manufactured scarcity is detected and discounted; *genuine* scarcity — limited capacity, ending pricing tier, board-approval window — accelerates decisions.
 
-- **The sale is transferred conviction.** If you don't believe the product solves the problem, the prospect won't either.
-- **Selling is something you do *for* someone, not *to* them.**
-- **Stop selling features, start selling outcomes.** Drill into the result the prospect actually wants.
-- **Objections are requests for more information**, not rejection.
+**Live application:** Never lie about scarcity. Communicate genuine constraints clearly: "we can onboard two more PR clients this quarter before we cap capacity for the rest of 2026." If you don't have real scarcity, build it (capped beta, founding-customer pricing, quarterly cohort intake).
 
----
+## The Carnegie Layer — Relational Foundation
 
-## 4. Tracy's Mental Laws
+Cialdini's six levers are amplified or muted by Carnegie's relational baseline:
 
-From `The Psychology of Selling`:
+- **Make the other person feel important** — sincerely. Name use, attention to detail about them, follow-up on prior conversation points.
+- **Talk in terms of their interests, not yours.** Replace "our platform offers…" with "the issue you mentioned about Q3 churn — here's what we've seen drive that for similar teams."
+- **Listen more than you talk.** In a 60-minute meeting, the seller should talk under 30% of the time during discovery and under 50% during demo.
+- **Acknowledge mistakes immediately and explicitly.** Sellers who own errors gain trust faster than sellers who hide them.
 
-- **The 80/20 rule applies inside your own pipeline.** Top 20% of prospects produce 80% of revenue — qualification matters more than volume.
-- **The buyer is buying a *feeling*: safety, status, or progress.** The product is a vehicle.
-- **Self-concept drives income.** A seller earns within ±10% of their self-image. Coaching is half technical, half identity.
+## The Robbins Layer — State & Values
 
----
+Cialdini and Carnegie operate on the prospect. Robbins operates on the seller.
 
-## 5. Klaff's Frame Control (Pitch Anything)
+- **Pre-call state priming** — 5 minutes before every important call: physical movement, breathing, visualization of best-case outcome. Sellers in peak state telegraph certainty, which is itself an influence lever.
+- **Values elicitation** — before presenting any offer, run the stack: *"What's important to you about [outcome]? And what would having that give you?"* Repeat until you hit the emotional driver. Sell to the emotional driver, justify with logic.
+- **The conviction test** — if you wouldn't pay this price for this offer, your buyer can feel it. Resolve internal price discomfort before facing the prospect.
 
-Frames are the way people interpret a situation. Whoever owns the frame controls the conversation.
+## The Voss Layer — Tactical Empathy
 
-Three frames sellers must defeat:
+In-the-moment mechanics that translate the universal levers into actual conversation:
 
-1. **Power frame** — the buyer flexes status. *Counter:* a small, calm, defiant act (humor, a polite refusal of a low-status seat).
-2. **Time frame** — the buyer claims they only have 5 minutes. *Counter:* "Then let's reschedule — what I have for you needs 25."
-3. **Analyst frame** — the buyer pulls you into spreadsheet detail to dodge the decision. *Counter:* end the data dive, return to story and stakes.
+- **Mirroring** — repeat the last 1-3 words of what the prospect said as a question. Triggers elaboration.
+- **Labeling** — *"It sounds like timing is the real concern."* Names the emotion in the room and defuses it.
+- **Calibrated questions** — *"How am I supposed to do that?"* *"What about this is important to you?"* Forces the prospect to think on their side of the table.
+- **The accusation audit** — name the prospect's likely objections out loud before they do: *"You're probably thinking this sounds expensive, that the timing is bad, and that you've tried things like this before."* Disarms the objections by surfacing them.
 
-Klaff's STRONG method (Setup, Tell, Reveal, Offer, Now, Get) is one of the most replicable pitch structures available.
+## The Cabane Layer — Presence Architecture
 
----
+- **Presence drills** before high-stakes calls: 3 minutes of single-point focus (a sensation, the breath, an object). Phone away from view.
+- **Power signals** in the meeting: shoulders down and back, slow speech with downward inflection, comfort with 2-3 second pauses, eye contact one beat longer than the prospect expects.
+- **Warmth signals**: genuine smile that reaches the eyes, micro-affirmations during prospect speech (head nods, "mm-hmm"), interest-questions about the prospect's life beyond the transaction.
 
-## 6. Charisma as Practiced Skill (Cabane)
+## Common Mistakes
 
-From `The Charisma Myth`: charisma decomposes into three observable behaviors.
+- **Manipulation framing.** Treating these levers as tricks rather than as principles of how humans actually decide. Manipulation gets caught and costs the seller their reputation — critical in PR's small market.
+- **Single-lever reliance.** Pushing only scarcity, only authority, only liking. The levers compound; sellers who stack 3-4 in a meeting close at multiples of single-lever sellers.
+- **Skipping the seller-side work.** Cialdini without Robbins-style state management produces inconsistent results. The seller who can't manage their own state can't influence anyone else's.
 
-- **Presence** — fully attending to the person in front of you (the rarest of the three).
-- **Power** — perceived ability to affect the world (posture, voice, decisiveness).
-- **Warmth** — perceived goodwill toward the person.
+## Puerto Rico Application
 
-For PR teams: presence is the highest-leverage one in local culture. Looking at the phone during a meeting kills a deal that the price never would.
+- **Reciprocity is amplified locally.** PR culture treats given favors as meaningful debts. Sellers who give first — connections, intros, knowledge — build pipeline through reciprocal warm intros that no amount of cold outreach replicates.
+- **Authority works differently.** PR buyers test credentials slowly and through relationships, not LinkedIn-credential signaling. Building authority requires being seen at industry events, published in local outlets, and endorsed by trusted local peers — not just impressive mainland clients.
+- **Liking is non-negotiable.** In larger markets, a competent-but-unlikeable seller can still close. In PR, an unlikeable seller is structurally excluded from most enterprise relationships.
+- **Scarcity must be real.** PR buyers have seen mainland vendors fake urgency for decades and discount it heavily. Genuine, transparent scarcity (capacity caps, board-approval windows, hurricane-season delivery constraints) lands.
+- **Bilingual values elicitation often surfaces deeper drivers.** Run the values-stack question in Spanish where appropriate — emotional vocabulary is often richer in the buyer's primary language.
 
----
+## Drills
 
-## 7. Tactical Empathy (Voss)
+1. **One-lever-per-day:** For seven days, deliberately deploy one Cialdini lever in every meeting. Note conversion impact.
+2. **The mirror drill:** Run the Voss mirror in 10 prospect conversations this week. Count how many times the prospect elaborates significantly.
+3. **The presence audit:** Record 5 of your own calls. Score yourself on presence, power, warmth (1-5 each). Pick the lowest and drill it for 30 days.
+4. **Reciprocity log:** Send one unsolicited useful thing per week to a current prospect or past client. Track which gifts produce reciprocal action within 30 days.
 
-From `Never Split the Difference`, the FBI hostage-negotiation toolkit applied to sales:
+## Cross-References
 
-- **Mirroring** — repeat the last 1–3 words of what the prospect said, with rising tone. Triggers more disclosure.
-- **Labeling** — "It seems like budget is the main hesitation." Naming the emotion defuses it.
-- **Calibrated questions** — "How am I supposed to do that?" / "What's the biggest challenge you face?" Shifts problem-solving to the buyer's side.
-- **The strategic "No"** — "Is now a bad time to talk?" works better than "Do you have a minute?" because *no* feels safe.
-- **Black swans** — hidden information that, once surfaced, collapses the whole objection.
-
----
-
-## 8. The Stack: How These Layer Together
-
-```
-┌──────────────────────────────────────────────────┐
-│  Klaff: frame control / who owns the room        │
-│  Voss: tactical empathy / what they're really    │
-│        saying                                    │
-│  Cialdini: which lever moves them                │
-│  Ziglar/Tracy: why YOU can deliver it sincerely  │
-│  Carnegie/Cabane: the medium — warmth & presence │
-└──────────────────────────────────────────────────┘
-```
-
-The order matters. A seller who reaches for scarcity (Cialdini) without the medium (Carnegie) reads as a hustler. A seller with warmth but no frame (Klaff) gets walked over.
-
----
-
-## 9. Puerto Rico Application Notes
-
-- **Confianza precedes commerce.** Cialdini's *liking* lever is amplified — the PR buyer wants to know you as a person before evaluating the offer. Budget 2–3x the discovery time you would in a transactional US market.
-- **Authority shows up through relationship, not credential.** Who introduced you matters more than which logos are on your deck.
-- **Reciprocity is cultural, not transactional.** A genuine favor is remembered for years. A favor with a hook attached is also remembered — negatively.
-- **Family is the unseen decision-maker.** Even in B2B, the buyer often consults a spouse or parent. Build for that.
-- **Bilingual code-switching** is itself a liking/similarity signal — but only if natural. Forced Spanish reads worse than respectful, fluent English.
-
----
-
-## 10. Practice Drills
-
-1. **Mirror drill (Voss):** record three discovery calls. Count how many times you used the last-3-words mirror. Target: 4+ per call.
-2. **Frame drill (Klaff):** in your next pitch, identify which of the three frames the buyer brings. Write it down before responding.
-3. **Carnegie drill:** in the next 7 days, send 5 messages to past prospects with zero ask in them — pure value or congratulation.
-4. **Ziglar drill:** for your current top deal, write one paragraph on why the prospect's life is *materially better* with your product. If you can't, that's the deal's real problem.
-
----
-
-## Source Cross-Reference
-
-- `BOOKS/01-Foundational-Psychology/influence-cialdini.md`
-- `BOOKS/01-Foundational-Psychology/how-to-win-friends-and-influence-people.md`
-- `BOOKS/01-Foundational-Psychology/ziglar-on-selling.md`
-- `BOOKS/01-Foundational-Psychology/the-psychology-of-selling.md`
-- `BOOKS/02-Classic-Sales-Techniques/pitch-anything.md`
-- `BOOKS/02-Classic-Sales-Techniques/the-charisma-myth.md`
-- `BOOKS/02-Classic-Sales-Techniques/never-split-the-difference.md`
+- **Books:** *Influence* (Cialdini), *Mastering Influence* (Robbins), *Never Split the Difference* (Voss), *The Charisma Myth* (Cabane), *How to Win Friends and Influence People* (Carnegie).
+- **Speakers:** Tony Robbins, Brian Tracy, Dale Carnegie, Olivia Fox Cabane.
+- **Strategies:** `02-Prospecting-and-Cold-Outreach.md`, `03-Closing-and-Negotiation.md`, `05-Value-Based-Selling.md`.
