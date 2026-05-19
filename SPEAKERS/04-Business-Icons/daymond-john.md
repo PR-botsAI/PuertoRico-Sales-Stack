@@ -1,41 +1,52 @@
 # Daymond John
 
-**Born:** 1969  
-**Category:** Business Icon / Entrepreneur / Speaker  
-**Status:** Founder of FUBU (a $6+ billion lifetime brand); *Shark Tank* investor; author of *The Power of Broke*
+**Era:** 1992–present · **Legacy:** FUBU founder; *Shark Tank* investor; brand-from-zero specialist · **Section:** Business Icons
 
----
+## Overview
 
-## Core Philosophy
+Daymond John started FUBU ("For Us, By Us") in 1992 by sewing tie-top hats in his mother's house in Queens, NY. By 1998 FUBU was doing over $350M in annual sales. He has since become one of the original Sharks on ABC's *Shark Tank* (since 2009), built the Shark Branding consulting firm, and authored several books on brand-building, particularly from constrained resources.
 
-> "Being broke is the greatest competitive advantage you'll ever have."
+## Core philosophy
 
-John built FUBU from his mother's house in Hollis, Queens, with $40 and a hot-glue gun. His central premise: scarcity forces creativity, hustle, and customer obsession — advantages that well-funded competitors cannot replicate. The "power of broke" is the entrepreneur's structural edge.
+**The Power of Broke.** Constraint is a feature, not a bug. Founders with capital often skip the unglamorous trust-building, hustle, and customer-intimacy work that founders without capital are forced into — and that hustle is exactly what builds durable brands. The first $1M is psychologically harder than the second $10M; do it without shortcuts and the resulting business has stronger foundations.
 
-## Signature Frameworks
+## Signature lessons for sellers
 
-- **The SHARK Points** — Set goals, Homework, Adore what you do, Remember you are the brand, Keep swimming.
-- **The power of broke** — Constraint as creative fuel.
-- **Brand-first business** — The brand is the moat; product is the expression.
-- **Cultural authenticity** — John built FUBU as a brand for and by the underserved community. Authenticity is the selling point modern consumers will pay premiums for.
+- **SHARK Points** (his framework): Set a goal → do Homework → develop the Amour (love) → Remember you are the brand → Keep swimming.
+- **You are the brand, before the product is.** Sellers underestimate this. The buyer is choosing the seller as much as the offering.
+- **Distribution before perfection.** FUBU's early breakthrough was getting product onto LL Cool J in a Gap ad — distribution hack that bypassed millions in conventional marketing.
+- **Equity in attention.** Build an audience first; selling to a built audience is dramatically cheaper than selling to strangers.
+- **Borrowed credibility.** Co-sign with bigger names, brands, or platforms when starting from zero.
 
-## Key Works
+## Notable works
 
-- *Display of Power*
-- *The Power of Broke*
-- *Rise and Grind*
-- *Powershift*
+- *The Brand Within* (2010)
+- *The Power of Broke* (2016)
+- *Rise and Grind* (2018)
+- *Powershift* (2020)
+- Shark Branding consultancy work
+- *Shark Tank* (TV) since 2009
 
-## Speaking Style
+## Quotables
 
-Warm, story-rich, culturally-rooted, and accessible. John speaks like the kid from Queens who made it — because he is. His delivery makes entrepreneurship feel reachable rather than mythical.
+- *"The Power of Broke is the ultimate competitive advantage."*
+- *"You can't get distracted by the noise."*
+- *"Set goals, and demand of yourself that you reach them."*
 
-## Why Puerto Rico Entrepreneurs Should Study Daymond John
+## Puerto Rico application
 
-John's playbook is exceptionally relevant to PR entrepreneurs working with constrained capital. The PR market has many *cultural-niche* opportunities (Boricua-first brands, diaspora-targeting products, regional food/fashion/services) where John's authenticity-as-asset model is the literal go-to-market blueprint.
+Daymond John's playbook is **extraordinarily aligned with PR's entrepreneurial reality.** Most local founders launch under-capitalized, in a small market, with informal distribution networks — which is exactly the *Power of Broke* setup that John argues is advantageous. His **distribution-hack instinct** (LL Cool J + Gap) maps onto PR's tight celebrity/influencer scene: a local artist, athlete, or TV personality co-sign for a startup brand costs a fraction of mainland equivalents and converts disproportionately well to a culturally proud audience. His **"you are the brand"** doctrine also fits the strong founder-as-face tradition in PR business (think *don Juan, dueño y cara de la marca*). Recommend John specifically to PR founders launching apparel, food/beverage, beauty, and consumer products — categories where his playbook has direct precedent.
 
-His SHARK framework is also one of the most accessible decision-making rubrics for new entrepreneurs in any market.
+## Where to study him
 
-## Legacy
+- *The Power of Broke* (the canonical text)
+- *Rise and Grind* (the morning-routine and habit layer)
+- *Powershift* (the influence-and-deal-making layer)
+- His *Shark Tank* deals — binge with notes on offer structure and equity terms
+- Daymond John Success Formula course
 
-John is one of the most influential figures in modern brand-driven entrepreneurship. He proved that cultural authenticity is not a marketing tactic but a foundational business strategy — a lesson that defines modern consumer brand-building.
+## Cross-references
+
+- Speaker: [Mark Cuban](./mark-cuban.md) (*Shark Tank* peer)
+- Speaker: [George Foreman](./george-foreman.md) (brand-licensing peer)
+- Strategy: [04-Offer-Creation-and-Acquisition](../../STRATEGIES/04-Offer-Creation-and-Acquisition.md)
