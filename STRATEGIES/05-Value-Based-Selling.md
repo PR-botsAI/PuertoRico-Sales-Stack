@@ -1,179 +1,109 @@
 # 05 — Value-Based Selling
 
-> The philosophy and the practice of selling by delivering disproportionate value. Synthesized from Burg & Mann (`The Go-Giver`, `Go-Givers Sell More`), Willingham (`Integrity Selling`), Dixon & Adamson (`The Challenger Sale`), Pink (`To Sell Is Human`), Greene (`Mastery`), and the foundational psychology layer.
+*The discipline of selling outcomes, not features. The hardest of the strategies to master, the most durable competitive advantage when mastered.*
 
-**Premise:** in markets where products commoditize quickly and trust is the moat, the seller who *gives* the most thoughtful, specific, useful value in the discovery phase wins the deal — and the renewal, and the referrals.
+## Why this playbook exists
 
----
+Feature-selling produces transactional customers, price erosion, and high churn. Value-based selling produces partnerships, premium pricing, and referrals. The gap between the two is not slogans — it's a specific set of habits, frameworks, and language patterns. This playbook is the assembly.
 
-## 1. The Core Reframe (Burg, Mann)
+## The mental shift
 
-From `The Go-Giver`: the five laws of stratospheric success.
+A feature-seller asks: *"What does our product do?"*
+A value-seller asks: *"What does the buyer's business look like 90 days, 12 months, 3 years after they implement?"*
 
-1. **The Law of Value.** Your true worth is determined by how much more you give in value than you take in payment.
-2. **The Law of Compensation.** Your income is determined by how many people you serve and how well you serve them.
-3. **The Law of Influence.** Your influence is determined by how abundantly you place other people's interests first.
-4. **The Law of Authenticity.** The most valuable gift you offer is yourself.
-5. **The Law of Receptivity.** The key to effective giving is to stay open to receiving.
+The seller's job is to make that future-state vivid, credible, and quantifiable enough that today's price feels small. Hormozi's Value Equation provides the math; the books in this section provide the philosophy and the practice.
 
-The trap: "give value first" gets cargo-culted into pre-pitch fake-helpfulness. The Go-Giver framework demands the value be *real*, *unconditional*, and *unmeasured*. Genuine asymmetry pays back compoundingly; performative giving doesn't.
+## The Go-Giver framework (Burg & Mann)
 
----
+Five Laws of Stratospheric Success — inverted from how most people think about selling:
 
-## 2. Integrity Selling (Willingham)
+1. **The Law of Value** — your true worth is determined by how much more you give in value than you take in payment.
+2. **The Law of Compensation** — your income is determined by how many people you serve and how well you serve them.
+3. **The Law of Influence** — your influence is determined by how abundantly you place other people's interests first.
+4. **The Law of Authenticity** — the most valuable gift you have to offer is yourself.
+5. **The Law of Receptivity** — to give effectively, you must be open to receiving.
 
-Willingham's premise: selling well and behaving ethically are not in tension — they are causally linked. His AID,Inc. process:
+These aren't soft principles — they're a system. Sellers who internalize them consistently outperform feature-pushers across multi-year measurement windows, in basically every sales literature study.
 
-- **A — Approach.** Build rapport authentically.
-- **I — Interview.** Discover the buyer's actual needs, not the ones convenient to your product.
-- **D — Demonstrate.** Show how your solution maps to their needs, only the relevant parts.
-- **Inc — Validate, Negotiate, Close.** Confirm value perceived equals value delivered, handle objections, close.
+## The AID,Inc. framework (Willingham, *Integrity Selling*)
 
-The model's enduring value: it bakes self-respect into the sales process. Sellers who use it report sustainable performance, lower burnout, higher referral rates.
+A buyer-centric process designed to align seller behavior with buyer psychology:
 
----
+- **A**pproach — establish trust before any discussion of product
+- **I**nterview — deep discovery focused on outcomes, not features
+- **D**emonstrate — present *only* solutions to the surfaced needs
+- **V**alidate — prove the claims with evidence (case studies, references, data)
+- **N**egotiate — resolve concerns collaboratively
+- **C**lose — ask directly, calmly, with the buyer's permission established
 
-## 3. The Challenger Sale (Dixon & Adamson)
+The sequence matters. Skipping or reordering steps is the most common cause of stalled deals.
 
-Large-scale CEB research found five seller profiles:
+## The Challenger model (Dixon & Adamson)
 
-1. **Hard worker** — high effort, average results
-2. **Relationship builder** — friendly, struggles in complex deals
-3. **Lone wolf** — high performer, ungovernable
-4. **Reactive problem solver** — service-oriented, slow on new business
-5. **Challenger** — *teaches, tailors, takes control*
+Research on 6,000+ B2B sellers identified five archetypes; only the **Challenger** consistently outperforms in complex sales:
 
-The key finding: in complex sales, **Challengers outperform Relationship Builders 2:1**. Counterintuitive — in complex B2B, being merely *liked* is not enough. The buyer is overwhelmed and needs the seller to *teach them something they didn't know about their own business*.
+- **Teach** — deliver a commercial insight the buyer didn't have. Reframe their view of their own business.
+- **Tailor** — customize the insight to the specific buyer's role, situation, and political reality.
+- **Take Control** — lead the conversation; resist the buyer's instinct to relegate you to vendor.
 
-The Challenger sequence:
+Value-based selling at the high end *is* Challenger selling. The seller earns the right to charge a premium by delivering perspective the buyer can't get from competitors.
 
-1. **Teach** — provocative insight: the buyer's current approach is costing them more than they realize.
-2. **Tailor** — adapt the insight to this specific buyer's role and constraints.
-3. **Take control** — guide the deal through procurement, objections, internal politics with confidence.
+## The SPIN model (Rackham)
 
----
+A discovery framework that ensures the buyer's problem is fully developed before any solution discussion:
 
-## 4. Pink's Reframe: Selling = Moving People (To Sell Is Human)
+- **S**ituation questions — understand the current state
+- **P**roblem questions — surface specific issues
+- **I**mplication questions — explore consequences (this is the highest-leverage move)
+- **N**eed-payoff questions — let the buyer articulate the value of solving it
 
-Pink's research synthesis: in the modern economy, *everyone is in sales* — teachers, doctors, parents, founders. "Non-sales selling" is now ~40% of every knowledge-worker's day.
+The implication-and-need-payoff sequence is where SPIN works its magic: instead of *you* explaining value, the buyer says it out loud. Buyers don't argue with their own words.
 
-His updated ABCs:
+## Reframing price objections
 
-- **A — Attunement.** Take the buyer's perspective without losing your own.
-- **B — Buoyancy.** Resilience against rejection. "Interrogative self-talk" beats positive self-talk: ask *can I?* rather than declare *I will*.
-- **C — Clarity.** Help the buyer identify problems they don't yet realize they have.
+Feature-sellers respond to price objections with discounts. Value-sellers respond by **reopening the value conversation**:
 
-Clarity > information access. Buyers in 2026 don't need more data; they need someone to *frame* the data they already have.
+- *"Let me re-anchor on the outcome — if we deliver X in Y time frame, what's that worth to the business over 12 months?"*
+- *"Compared to what?"* (Voss-style calibrated question — forces the buyer to articulate their reference point.)
+- *"What's the cost of not solving this in 2026?"* (Pulls the cost-of-inaction frame to the foreground.)
 
----
+Discounts should be the last resort, not the first. Every unrequested discount lowers the buyer's perceived value of the offering.
 
-## 5. The Insight Engine: How Value-First Sellers Prepare
+## The Hormozi cross-check
 
-Value-based selling is preparation-heavy. Before any call:
+Before any sales conversation, run the Value Equation against your offer for *this specific buyer*:
 
-- Pull 3 specific, recent signals about the buyer's company
-- Read the most recent earnings/press release if public
-- Identify one peer-company case that maps to their situation
-- Pre-write 2–3 challenger insights specific to this buyer
-- Identify what you can *give* on this call (an introduction, a piece of analysis, a contact) regardless of whether the deal moves
+- Is the **Dream Outcome** specific to *their* situation, or generic?
+- Is the **Likelihood of Achievement** proved with cases similar to *theirs*?
+- Is the **Time Delay** explicit, with milestone dates?
+- Is the **Effort/Sacrifice** minimized in the proposal? What can you take off their plate?
 
-The seller's mantra: *I will leave this conversation having delivered \$X of value whether or not they buy.*
+If any answer is weak, the conversation isn't ready. Fix the offer before you pitch it.
 
----
+## Puerto Rico application
 
-## 6. Mastery as a Long Arc (Greene)
+### Cultural fit of value-based selling
 
-From `Mastery`: the path to genuine expertise is decades, not quarters. Three phases:
+Value-based selling is **disproportionately effective in PR**, because the local market's trust economy rewards *partners* over *vendors*. The Go-Giver framework in particular maps almost perfectly onto *boricua* business culture: the *fiao*, the *favor devuelto*, the *padrino* tradition — these are Burg & Mann's Laws operating informally in the local economy for generations. Sellers who lead with value (insight, audit, introduction, free first-step work) build trust faster than competitors who lead with pricing.
 
-1. **Apprenticeship** — observe, internalize, accumulate skills. Resist the urge to perform early.
-2. **Creative-active phase** — start making your own work, take calculated risks.
-3. **Mastery** — pattern recognition becomes intuitive; you can see what others miss.
+### Local language register
 
-For sellers, this maps to:
-- **Year 1–3:** technique. Run scripts, internalize frameworks.
-- **Year 4–7:** adaptation. Compose your own approach.
-- **Year 8+:** strategic intuition. You feel deals before they're visible in numbers.
+- *"Lo que esto te resuelve…"* (What this resolves for you…) outperforms *"Lo que esto hace…"* (What this does…).
+- *"¿Qué te costaría no resolver esto en 6 meses?"* (What would it cost you not to resolve this in 6 months?) is the implication question in its strongest local form.
+- *"Yo trabajo para que tú quedes bien con tu jefe / tu socio / tu familia"* (I work so that you look good in front of your boss / partner / family) signals the seller's understanding of internal political stakes — deeply resonant in PR business culture.
 
-Most "sales burnout" is people trying to skip directly to mastery without serving the apprenticeship. The shortcut doesn't exist.
+### Industry-specific notes
 
----
+- **Professional services (legal, accounting, advisory):** value selling is the only viable mode at the high end. Buyers are evaluating *judgment*, not deliverables. Lead with insight, case studies, and demonstrated thinking.
+- **Insurance and financial services:** the implication question is critical — surface the consequences of underinsurance or under-saving with concrete numbers. Buyers in PR routinely under-buy insurance relative to risk; the value seller's job is to make the risk vivid.
+- **B2B SaaS to PR mid-market:** local buyers are often skeptical of mainland software because of perceived support and localization gaps. Lead value with: bilingual support, local CSM, local case studies, hurricane-resilient deployment notes.
+- **Healthcare and wellness:** outcome specificity is critical — "better health" loses; "reduce your A1C to 6.0 in 16 weeks with weekly check-ins" wins.
 
-## 7. Why Value-Based Outsells Transactional (Long Run)
+### Avoiding the local trap
 
-| Metric | Transactional seller | Value-based seller |
-|---|---|---|
-| First-call close rate | Higher | Lower |
-| Average deal size | Lower | 2–3x higher |
-| Renewal rate | 40–60% | 80%+ |
-| Referral rate per closed deal | <5% | 25%+ |
-| Time to next sale (existing client) | New cycle | Often already inbound |
-| Burnout risk | High | Low |
+The pressure to discount is constant in PR — *"¿Me das un descuentito?"* is a reflexive opener for many buyers, regardless of price tolerance. The value-seller's response is **not** automatic discount; it's a calm reopen: *"Antes de hablar de precio — ¿ya estamos de acuerdo en que esto te resuelve X?"* If yes, the price holds. If no, you're not yet at the price conversation.
 
-Transactional models win the quarter. Value-based models win the decade.
+## Cross-references
 
----
-
-## 8. The Trust Architecture
-
-Trust is the substrate value-based selling runs on. Three layers:
-
-1. **Competence trust** — "You know what you're talking about." Built by specificity, accuracy, recall.
-2. **Reliability trust** — "You do what you say you'll do." Built by small commitments kept on time.
-3. **Care trust** — "You're not just here for the commission." Built by giving without ask, refusing the wrong-fit deal.
-
-Most sellers stop at competence. Top performers invest in all three.
-
----
-
-## 9. The Long-Game Referral Engine
-
-A value-based seller's pipeline shifts over time:
-
-- **Years 1–2:** ~80% outbound effort
-- **Years 3–4:** ~50% outbound, 50% referral
-- **Years 5+:** ~20% outbound, 80% referral + repeat
-
-The shift happens because every closed deal where the buyer felt *over-served* becomes a 2–5 deal pipeline of referrals over the next 24 months.
-
-**Mechanism:** explicit referral asks at three moments — (1) at peak satisfaction (post-installation, post-result), (2) on the renewal, (3) annually as a relationship cadence.
-
----
-
-## 10. Puerto Rico Application Notes
-
-- **Value-based selling is the *natural* mode in the PR market.** The cultural emphasis on *confianza* and *relación a largo plazo* means transactional approaches actively damage long-term position.
-- **"Gracias por confiar en mí"** is not a closing phrase — it is the through-line of the entire relationship. Performed gratitude is detected instantly; sincere gratitude compounds.
-- **The padrino effect.** A trusted advisor (CPA, attorney, family friend, business mentor) can deliver more referral value in one introduction than 100 cold outreaches. Earn standing with these advisors first.
-- **Community visibility matters.** Sponsoring a Little League team, supporting a local school fundraiser, showing up at neighborhood events — these create the diffuse trust that converts into closed business 12+ months later.
-- **Saying no preserves trust.** If a deal isn't the right fit, telling the buyer so — even when you could close them — creates permanent referral capital. Many top PR closers attribute 30%+ of their book to deals they once *declined*.
-- **Document care.** Send the article, the introduction, the recipe, the resource you mentioned in passing. The follow-through after the meeting is where value-based selling lives in this market.
-
----
-
-## 11. The Anti-Patterns to Avoid
-
-- **Faux-giving with strings attached.** Sending a "value piece" with a CTA stapled to it. Buyers read this immediately.
-- **Information dumping disguised as insight.** Eight slides of stats is data delivery, not Challenger teaching.
-- **Confusing rapport with value.** A two-hour coffee where nothing the buyer didn't already know was said is not value-based selling — it's relationship-building procrastination.
-- **Performative humility.** "I'm not really a salesperson." Buyers prefer a confident, expert seller who is also generous.
-
----
-
-## 12. Daily Practice
-
-One discipline per layer of `confianza`:
-
-- **Competence:** read 30 minutes/day in your industry. Not sales books — industry. Be the most informed person about *their* world in the room.
-- **Reliability:** never miss a follow-up commitment. If you said Thursday by 5, it lands Thursday by 5.
-- **Care:** every Friday, send one unconditional value message — an article, an intro, a thought — to a current prospect or client with zero ask attached.
-
----
-
-## Source Cross-Reference
-
-- `BOOKS/02-Classic-Sales-Techniques/go-givers-sell-more.md`
-- `BOOKS/04-Billionaire-Recommendations/the-go-giver.md`
-- `BOOKS/02-Classic-Sales-Techniques/integrity-selling.md`
-- `BOOKS/02-Classic-Sales-Techniques/the-challenger-sale.md`
-- `BOOKS/02-Classic-Sales-Techniques/to-sell-is-human.md`
-- `BOOKS/02-Classic-Sales-Techniques/mastery.md`
+- Books: [The Go-Giver](../BOOKS/04-Billionaire-Recommendations/the-go-giver.md), [Go-Givers Sell More](../BOOKS/04-Billionaire-Recommendations/go-givers-sell-more.md), [Integrity Selling](../BOOKS/02-Classic-Sales-Techniques/integrity-selling.md), [SPIN Selling](../BOOKS/01-Foundational-Psychology/spin-selling.md), [The Challenger Sale](../BOOKS/02-Classic-Sales-Techniques/the-challenger-sale.md), [Mastering the Complex Sale](../BOOKS/02-Classic-Sales-Techniques/mastering-the-complex-sale.md), [Strategic Selling](../BOOKS/02-Classic-Sales-Techniques/strategic-selling.md)
+- Speakers: [Alex Hormozi](../SPEAKERS/03-Modern-Sales-Trainers/alex-hormozi.md), [Richard Branson](../SPEAKERS/04-Business-Icons/richard-branson.md), [Brian Tracy](../SPEAKERS/01-Classic-Legends/brian-tracy.md)
