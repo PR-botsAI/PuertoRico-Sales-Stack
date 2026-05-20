@@ -1,84 +1,104 @@
-# PuertoRico Sales Stack
+# Puerto Rico Sales Stack
 
-> **The Holy Grail of Sales** — a meticulously archived, structured knowledge base of foundational sales psychology, modern acquisition strategy, billionaire-endorsed thinking, and the speakers who built the field. Engineered as the definitive educational resource for the **Puerto Rico sales industry**.
+*The Holy Grail of Sales — a comprehensive, structured, AI-readable archive of the world's most influential sales books, speakers, strategies, and buyer-profile frameworks, curated and adapted for the Puerto Rico market.*
 
-This repository is a strategic asset. Its purpose is threefold:
+## What this is
 
-1. **Skill development** — a complete curriculum for sellers, closers, managers, and founders operating in Puerto Rico.
-2. **Model training** — a clean, structured corpus suitable for fine-tuning sales-focused AI agents, copilots, and coaching bots.
-3. **Content creation** — a source library for scripts, ads, social posts, training decks, and sales enablement assets.
+A strategic asset built to:
 
----
+- Train sales professionals operating in or selling into Puerto Rico
+- Fuel AI model training on sales reasoning calibrated for the bilingual, family-business, relationship-driven PR market
+- Power content creation for sales coaches, agencies, training programs, and educational platforms
+- Serve as a permanent reference for the *boricua* sales practitioner
 
-## Scope
+This isn't a list of books — it's a structured operating system. Every book, speaker, and strategy is mapped to the others, written in a consistent schema, and grounded with explicit Puerto Rico application notes.
 
-The archive spans **foundational psychology from the early 1900s through current 2026 acquisition strategy**, anchored by what top performers and billionaires actually read and cite.
+## How it's organized
 
-- **Foundational psychology (1900s — mid-20th century):** Carnegie, Bettger, Hopkins, Ziglar, Tracy, Cialdini, Rackham, Blanchard.
-- **Modern sales strategy (current timing):** Hormozi (*$100M Offers*, *$100M Leads*), Chris Voss, Jeb Blount, Grant Cardone, Matt Dixon, Aaron Ross, Dan Pink, Tony Robbins (*Mastering Influence*), plus the classic-strategic operators (Miller-Heiman, Parinello, Holmes, Thull, Gitomer, Etherington).
-- **Billionaire / top-performer picks:** *Made to Stick*, *The Go-Giver*, *Mastery*, *The Charisma Myth*, *The War of Art*, *Integrity Selling*.
-- **Speakers archive:** Classic legends, motivational giants, modern sales trainers, business icons.
-- **Strategies:** Distilled playbooks across psychology, prospecting, closing, offer creation, value-based selling, and Puerto Rico-specific application.
+Four top-level sections. Read in this order if you're starting from zero:
 
----
+### 📚 [BOOKS](./BOOKS/) — 30 essential sales books across 4 subsections
+- **01-Foundational-Psychology** — Carnegie, Bettger, Hopkins, Ziglar, Tracy, Cialdini, Rackham, Blanchard
+- **02-Classic-Sales-Techniques** — Miller & Heiman, Parinello, Willingham, Klaff, Gitomer, Etherington, Thull, Dixon & Adamson
+- **03-Modern-Sales-Strategy** — Hormozi (×2), Voss, Blount, Ross, Pink, Cardone
+- **04-Billionaire-Recommendations** — Heath brothers, Burg & Mann (×2), Greene, Cabane, Holmes, Pressfield
 
-## Repository Structure
+### 🎙️ [SPEAKERS](./SPEAKERS/) — 20 profiles across 4 subsections
+- **01-Classic-Legends** — Carnegie, Ziglar, Hopkins, Tracy, Girard
+- **02-Motivational-Giants** — Robbins (with *Mastering Influence*), Brown, Eric Thomas, Maxwell, Gardner
+- **03-Modern-Sales-Trainers** — Cardone, Blount, Hormozi
+- **04-Business-Icons** — Cuban, Branson, Foreman, Kiyosaki, Caan, John, Turner
 
-```
-PuertoRico-Sales-Stack/
-├── BOOKS/
-│   ├── 01-Foundational-Psychology/      # 1900s — mid-20th century
-│   ├── 02-Modern-Strategy/              # current-timing frameworks
-│   └── 03-Billionaire-Recommended/      # what top performers cite
-├── SPEAKERS/
-│   ├── 01-Classic-Sales-Legends/        # Ziglar, Girard, Carnegie, Tracy, Hopkins
-│   ├── 02-Modern-Sales-Influencers/     # Cardone, Blount, Hormozi
-│   ├── 03-Motivational-Speakers/        # Robbins, Brown, Thomas, Maxwell, Gardner
-│   └── 04-Business-Icons/               # Cuban, Branson, Foreman, Kiyosaki, Caan, John, Turner
-└── STRATEGIES/
-    ├── 01-Psychology-and-Influence.md
-    ├── 02-Prospecting-and-Cold-Outreach.md
-    ├── 03-Closing-and-Negotiation.md
-    ├── 04-Offer-Creation-and-Acquisition.md
-    ├── 05-Value-Based-Selling.md
-    └── 06-Puerto-Rico-Application.md
-```
+### 🎯 [STRATEGIES](./STRATEGIES/) — 6 synthesis playbooks
+1. **Psychology and Influence** — Cialdini's 7 levers + Voss + Klaff + Cabane operationalized
+2. **Prospecting and Cold Outreach** — 7-channel omnichannel with PR cadence calibration
+3. **Closing and Negotiation** — Voss tactical empathy + Hopkins closes + Klaff frame control
+4. **Offer Creation and Acquisition** — Hormozi Value Equation, Grand Slam Offer, Core Four
+5. **Value-Based Selling** — Go-Giver + Integrity Selling + Challenger + SPIN
+6. **Puerto Rico Application** — the local-market calibration layer
 
----
+### 👥 [BUYER-PROFILES](./BUYER-PROFILES/) — 7 buyer-typology playbooks
+1. **Wealth-Class Segmentation** — *sell time to the rich, aspiration to the middle, hope to the working class*
+2. **Maslow & Six Human Needs** — what level of human need are you addressing?
+3. **DISC Personality Profiles** — Driver / Influencer / Steady / Conscientious
+4. **Generational Profiles** — Boomer, Gen X, Millennial, Gen Z (with PR calibration)
+5. **B2B Decision Roles** — Economic / Technical / User / Champion / Coach / Gatekeeper / Blocker
+6. **Puerto Rico Buyer Archetypes** — *Dueño, Profesional, Don/Doña, Diaspora Returnee, Act 60, Abuela, Resolvedor, Cangrejo, Hustler, Trabajador Honesto, Buscavidas*
+7. **Quick Reference Matrix** — the cheat sheet
 
-## How to Use This Archive
+## The coverage philosophy
 
-### For sellers in Puerto Rico
-Start with `BOOKS/01-Foundational-Psychology/` for the psychology that never changes, then jump to `STRATEGIES/06-Puerto-Rico-Application.md` to see how it adapts to the bilingual, relationship-driven local market.
+Three tests for inclusion:
 
-### For sales managers
-Work through `STRATEGIES/` end-to-end. Each playbook is structured for direct lift into training programs.
+1. **Top-1% closers cite it.** Not because every elite seller has read every book, but because the books here recur in interviews, biographies, and training programs across decades and continents.
+2. **Billionaires and operators recommend it.** Recommendations from people who built or scaled real businesses, validated against general consumer-finance and self-help noise.
+3. **The framework moves measurable outcomes.** Skip pure motivational fluff; include only material that operationalizes into observable change in sales behavior or buyer response.
 
-### For AI/ML teams
-Every `.md` file follows a consistent schema: overview → author/context → key concepts → signature techniques → quotables → Puerto Rico application → further reading. Predictable enough to chunk, embed, and fine-tune on.
+## The Puerto Rico calibration
 
-### For content creators
-The speakers archive and the quotables in each book file are clean source material for ad scripts, social hooks, and educational posts.
+Every entry includes a *Puerto Rico application* section. The island isn't the US mainland with Spanish translation — it's a distinct market with its own:
 
----
+- Bilingual communication norms (Spanish-default / English-acceptable, calibrated by buyer)
+- Family-business density (decisions made by *dueños*, often spanning generations)
+- Trust-cycle length (4–12 weeks where mainland is 2–6)
+- Channel mix (WhatsApp dominance; in-person still weighted; phone still working)
+- Cultural anchors (*confianza, resolver, cariño, palabra, ser profesional*)
+- Regulatory layer (Act 60, IVU, hurricane-season operational rhythms)
+- Network density (3.2M-person market; reputation propagates in days)
 
-## Coverage Philosophy
+## How to use this archive
 
-This archive **does not pad**. Every entry exists because either:
-- a top-1% closer cites it as foundational, OR
-- a billionaire / industry icon publicly recommends it, OR
-- a specific framework from it shows measurable impact on close rates, ACV, or pipeline velocity.
+**For sales practitioners:**
+Start with `BOOKS/01-Foundational-Psychology` and `STRATEGIES/06-Puerto-Rico-Application`. Then deepen into the strategies most relevant to your role. Profile your active buyers using `BUYER-PROFILES`.
 
-When old-school and modern conflict, both views are preserved. Carnegie's relational warmth and Hormozi's offer math are not enemies — they operate on different layers of the same sale.
+**For sales managers:**
+Use `STRATEGIES/02-Prospecting-and-Cold-Outreach` and `STRATEGIES/03-Closing-and-Negotiation` as training scaffolds. Use `BUYER-PROFILES/07-Quick-Reference-Matrix` for pre-call coaching.
 
----
+**For founders and offer-engineers:**
+Start with `STRATEGIES/04-Offer-Creation-and-Acquisition` and `BUYER-PROFILES/01-Wealth-Class-Segmentation`. Identify which tier you serve before you build.
+
+**For AI/ML training:**
+The consistent schema (overview → author/era context → key concepts → quotables → PR application → how-to-use → cross-references) makes this archive structured input for fine-tuning, RAG retrieval, and agentic workflows. Cross-references support graph traversal.
+
+**For content creators:**
+Every entry is a starting point for: a long-form post, a thread, a video, a course module, an email sequence, a podcast episode. Use quotables sparingly (under 15 words, attributed). Build on the PR application notes — most of that perspective is unique to this archive.
+
+## The ethical floor
+
+The frameworks in this archive are powerful enough to be misused. The archive's stance is explicit:
+
+- Influence techniques are for helping the buyer make a better decision, not for extracting value the buyer would regret.
+- The vulnerable-segment material in `BUYER-PROFILES/01-Wealth-Class-Segmentation` is *especially* sensitive — understanding how predatory marketing works isn't a license to deploy it.
+- Sales is a long game on a small island. The seller's *palabra* is their longest-lasting asset.
 
 ## Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md). Pull requests welcome for: new book entries, speaker profiles, framework breakdowns, and PR-market case studies.
+See [CONTRIBUTING.md](./CONTRIBUTING.md). Pull requests welcome for: new book/speaker entries (must meet the inclusion tests), additional PR archetype profiles, strategy refinements grounded in observed practice, and translation/Spanish-language versions of any file.
+
+## License
+
+All original summary, analysis, and PR application material is licensed for educational and AI-training use. Quotable attribution is preserved per fair-use practice (≤15 words per quote, attributed). Underlying source works remain the property of their respective authors.
 
 ---
 
-## License & Use
-
-All book content here is **original summary, analysis, and commentary** — never reproduced source text. This archive is shared as an educational resource for the Puerto Rico sales community.
+*Built in Arecibo, Puerto Rico, for the global *boricua* sales community.*
